@@ -1,4 +1,4 @@
-#creating robloc account
+#creating roblox account
 
 name = "saba"
 surname = "okradze"

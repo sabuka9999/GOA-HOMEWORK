@@ -1,0 +1,19 @@
+#p1 {
+    text-decoration: overline;
+}
+
+#p2 {
+    text-decoration: overline, dotted ;
+}
+
+#p3 {
+    text-decoration: overline, wavy ;
+}
+
+#p4 {
+    text-decoration:  underline ;
+}
+
+#p5 {
+    text-decoration: line-through;
+}
