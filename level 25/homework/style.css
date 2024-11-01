@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Danfo&family=Itim&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Tiny5&display=swap');
+
+h1{
+    font-family: "Danfo"; 
+}
+
+p{
+    font-family: "Danfo";
+}
+
+
+
+
+
+
+.link1:link {
+    color: blue;
+    text-decoration: none;
+}
+.link1:hover {
+    color: darkblue;
+    text-decoration: underline;
+}
+
+
+.link2:visited {
+    color: purple;
+}
+.link2:active {
+    color: red;
+}
+
+
+.link3:link {
+    color: green;
+    text-decoration: none;
+}
+.link3:hover {
+    color: darkgreen;
+    text-decoration: underline;
+}
+.link3:visited {
+    color: lime;
+}
+.link3:active {
+    color: orange;
+}
+
+
+
+
+
+
